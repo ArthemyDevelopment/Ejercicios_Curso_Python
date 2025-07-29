@@ -1,0 +1,46 @@
+{
+  "tareas": [
+    {
+      "id": 6,
+      "titulo": "test",
+      "descripcion": "test",
+      "completada": false,
+      "categoria": "otra categoría",
+      "fecha_creacion": "2025-07-29 00:46:32",
+      "fecha_completado": null
+    },
+    {
+      "id": 7,
+      "titulo": "otro test",
+      "descripcion": "otro test",
+      "completada": false,
+      "categoria": "",
+      "fecha_creacion": "2025-07-29 00:46:43",
+      "fecha_completado": null
+    },
+    {
+      "id": 8,
+      "titulo": "test3",
+      "descripcion": "test3",
+      "completada": false,
+      "categoria": "test_cat",
+      "fecha_creacion": "2025-07-29 00:46:50",
+      "fecha_completado": null
+    },
+    {
+      "id": 9,
+      "titulo": "test",
+      "descripcion": "test2",
+      "completada": false,
+      "categoria": "otra categoría",
+      "fecha_creacion": "2025-07-29 00:58:04",
+      "fecha_completado": null
+    }
+  ],
+  "siguiente_id": 10,
+  "categorias": [
+    "test",
+    "otra categoría",
+    "test_cat"
+  ]
+}
